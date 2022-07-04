@@ -1,0 +1,152 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Contacts</key>
+    <array>
+      <dict>
+        <key>Id</key>
+        <integer>1</integer>
+        <key>AccountName</key>
+        <string>sampleemail@gmail.com</string>
+        <key>AccountType</key>
+        <string>com.google</string>
+        <key>GivenName</key>
+        <string>Mr</string>
+        <key>MiddleName</key>
+        <string>Nobody</string>
+        <key>FamilyName</key>
+        <string>Else 01</string>
+        <key>FullName</key>
+        <string>Mr Nobody Else 01</string>
+        <key>Favorited</key>
+        <false />
+        <key>Groups</key>
+        <array>
+          <dict>
+            <key>GroupId</key>
+            <integer>1</integer>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>Emails</key>
+        <array />
+        <key>PhoneNumbers</key>
+        <array>
+          <dict>
+            <key>Value</key>
+            <string>1111111111</string>
+            <key>Primary</key>
+            <integer>0</integer>
+            <key>Name</key>
+            <string>2</string>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>IMAddresses</key>
+        <array />
+        <key>Addresses</key>
+        <array />
+        <key>Organizations</key>
+        <array />
+        <key>Websites</key>
+        <array />
+        <key>NickNames</key>
+        <array>
+          <dict>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>Notes</key>
+        <array>
+          <dict>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>Sips</key>
+        <array />
+        <key>Dates</key>
+        <array />
+        <key>SocialProfiles</key>
+        <array />
+        <key>RelatedNames</key>
+        <array />
+      </dict>
+      <dict>
+        <key>Id</key>
+        <integer>2</integer>
+        <key>AccountName</key>
+        <string>sampleemail@gmail.com</string>
+        <key>AccountType</key>
+        <string>com.google</string>
+        <key>GivenName</key>
+        <string>Mr</string>
+        <key>MiddleName</key>
+        <string>Nobody</string>
+        <key>FamilyName</key>
+        <string>Else 02</string>
+        <key>FullName</key>
+        <string>Mr Nobody Else 02</string>
+        <key>Favorited</key>
+        <false />
+        <key>Groups</key>
+        <array>
+          <dict>
+            <key>GroupId</key>
+            <integer>1</integer>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>Emails</key>
+        <array />
+        <key>PhoneNumbers</key>
+        <array>
+          <dict>
+            <key>Value</key>
+            <string>2222222222</string>
+            <key>Primary</key>
+            <integer>0</integer>
+            <key>Name</key>
+            <string>2</string>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>IMAddresses</key>
+        <array />
+        <key>Addresses</key>
+        <array />
+        <key>Organizations</key>
+        <array />
+        <key>Websites</key>
+        <array />
+        <key>NickNames</key>
+        <array>
+          <dict>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>Notes</key>
+        <array>
+          <dict>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>Sips</key>
+        <array />
+        <key>Dates</key>
+        <array />
+        <key>SocialProfiles</key>
+        <array />
+        <key>RelatedNames</key>
+        <array />
+      </dict>
+    </array>
+  </dict>
+</plist>
